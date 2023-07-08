@@ -12,7 +12,7 @@ This repository has been opened to develop iOS in a planned way.
 ## Swift Fundamentals 
 | Topics                                        | File                                                                                                                                                        |
 |-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Variables                                     | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Variables.md">File</a>                                |
+| Variables                                     | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Swift%20Day%201-15/Variables.md">File</a>                                |
 | Complex Variables and Enums                   | <a href="...">File</a> |
 | Operators, Conditions and Switch-Case Usage   | <a href="...">File</a>             |
 | Loops                                         | <a href="...">File</a>                                    |
