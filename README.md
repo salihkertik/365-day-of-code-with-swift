@@ -27,14 +27,6 @@ This repository has been opened to develop iOS in a planned way.
 | Optional Datas and Typecasting                | <a href="...">File</a>                               |
 | Protocols and P.O.P                           | <a href="...">File</a>                               |
 
-### Summary files
-| Topics | File | 
-|--------| - |
-| Variables and Constants, Types of Data, Operators, String Interpolation, Arrays, Dictionaries, Conditional Statements, Loops, Switch Case | <a href="...">File</a> |
-| Functions, Optionals, Optional chaining, Enumaretion, Struct, Classes and <code>Structs vs Classes</code> | <a href="...">File</a> |
-| Properties, Static properties and methods, Access control, Polymorphism and typecasting, Closures | <a href="...">File</a> |
-
-
 
 ## Project Map
 ℹ️ Projects with Project and Gallery link are completely made by me.
