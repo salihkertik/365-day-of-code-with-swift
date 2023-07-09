@@ -44,7 +44,7 @@ Sorted by development time.
 
 | Name | Status | Url | Subject | Main Technologies |
 | ---- | ------ | --- | ------- | ----------------- | 
-| ProjectName | Develop |  <a href="...">Go to Project</a> | E-Commerce | UIKit-NoStoryboard, Alamofire, SwiftLint, Kingfisher, MVVM, CRS |
+| ProjectName | Develop |  <a href="...">Go to Project</a> | LEARN LANG | MVM, FİREBASE |
 
 ## Hacking with Swift - 100 Days Of Swift - Salih KERTİK
 <div>
