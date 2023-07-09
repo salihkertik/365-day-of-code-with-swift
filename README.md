@@ -32,7 +32,7 @@ This repository has been opened to develop iOS in a planned way.
 ## Project Map
 ℹ️ Projects with Project and Gallery link are completely made by me.
 
-| Days      | File | Subjects |
+| Days             | File | Subjects |
 | ---------- | ---- | -------------- |
 | Day16-18 | <a href="..."> Project </a>| FileManager, UITableViewController, CocoaTouch Classes, UIImage, NavigationController |
 
