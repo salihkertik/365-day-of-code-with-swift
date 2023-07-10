@@ -12,7 +12,7 @@ This repository has been opened to develop iOS in a planned way.
 ## Swift Fundamentals 
 | Days | Topics                                        | File                                                                                                                                                        |
 |----|------------------------------|----------|
-| Day 1 ✅ | Variables, Simple Data Types, and String interpolation | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Swift%20Day%201-15/Day1-Variables.md">File</a>                |
+| Day 1 ✅ | Variables, Simple Data Types, and String interpolation | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Swift%20Day%201-15/Day1-Variables.md">File</a> |
 | Day 2 ✅ | Arrays, Dictionaries, Sets and Enums           | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Swift%20Day%201-15/Day2-Arrays.md">File</a> |
 | Day 3 ✅ | Operators and Conditions                       | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Swift%20Day%201-15/Day3-Operators.md">File</a> |
 | Day 4 | Loops, loops, and more loops                   | <a href="...">File</a> |
