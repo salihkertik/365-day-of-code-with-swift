@@ -15,7 +15,7 @@ This repository has been opened to develop iOS in a planned way.
 | Day 1 ✅ | Variables, Simple Data Types, and String interpolation | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Swift%20Day%201-15/Day1-Variables.md">File</a> |
 | Day 2 ✅ | Arrays, Dictionaries, Sets and Enums           | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Swift%20Day%201-15/Day2-Arrays.md">File</a> |
 | Day 3 ✅ | Operators and Conditions                       | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Swift%20Day%201-15/Day3-Operators.md">File</a> |
-| Day 4 | Loops, loops, and more loops                   | <a href="...">File</a> |
+| Day 4 ✅ | Loops, loops, and more loops                   | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Swift%20Day%201-15/Day4-Loops.md">File</a> |
 | Day 5 | Functions, Parameters and Errors               | <a href="...">File</a> |
 | Day 6 | Closures part one                              | <a href="...">File</a> |
 | Day 7 | Closures part two                              | <a href="...">File</a> |
