@@ -1,6 +1,6 @@
 ## Operators and Conditions
 
-#### Arithmetic Operators
+### Arithmetic Operators
 ###### Here are a couple of test variables for us to work with
 ```swift
 let firstScore = 12
