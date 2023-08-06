@@ -17,8 +17,8 @@ This repository has been opened to develop iOS in a planned way.
 | Day 3 ✅ | Operators and Conditions                       | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Swift%20Day%201-15/Day3-Operators.md">File</a> |
 | Day 4 ✅ | Loops, loops, and more loops                   | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Swift%20Day%201-15/Day4-Loops.md">File</a> |
 | Day 5 ✅ | Functions, Parameters and Errors               | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Swift%20Day%201-15/Day5-Functions.md">File</a> |
-| Day 6 | Closures part one                              | <a href="...">File</a> |
-| Day 7 | Closures part two                              | <a href="...">File</a> |
+| Day 6 ✅ | Closures part one                              | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Swift%20Day%201-15/Day6-Closures.md">File</a> |
+| Day 7 ✅ | Closures part two                              | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Swift%20Day%201-15/Day7-Closures2.md">File</a> |
 | Day 8 | Structs, Properties and Methods-               | <a href="...">File</a> |
 | Day 9 | Access control, Static properties and Laziness | <a href="...">File</a> |
 | Day 10 | Classes and Inheritance                       | <a href="...">File</a> |
