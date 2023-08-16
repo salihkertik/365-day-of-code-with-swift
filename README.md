@@ -19,7 +19,7 @@ This repository has been opened to develop iOS in a planned way.
 | Day 5 ✅ | Functions, Parameters and Errors               | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Swift%20Day%201-15/Day5-Functions.md">File</a> |
 | Day 6 ✅ | Closures part one                              | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Swift%20Day%201-15/Day6-Closures.md">File</a> |
 | Day 7 ✅ | Closures part two                              | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Swift%20Day%201-15/Day7-Closures2.md">File</a> |
-| Day 8 | Structs, Properties and Methods-               | <a href="...">File</a> |
+| Day 8 ✅ | Structs, Properties and Methods-               | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Swift%20Day%201-15/Day8-Structs.md">File</a> |
 | Day 9 | Access control, Static properties and Laziness | <a href="...">File</a> |
 | Day 10 | Classes and Inheritance                       | <a href="...">File</a> |
 | Day 11 | Protocols, Extensions and Protocol Extensions | <a href="...">File</a> |
