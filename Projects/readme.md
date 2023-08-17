@@ -1,2 +1,3 @@
-## Projects I made between 16-100 days
+## Sample projects made by me
+
 
