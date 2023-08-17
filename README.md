@@ -46,7 +46,8 @@ Sorted by development time.
 | ---- | ------ | --- | ------- | ----------------- | 
 | Land Mark Book | Develop |  <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/LandmarkBook">Go to Project</a> | Beginner | Table View |
 
-## Hacking with Swift - 100 Days Of Swift - Salih KERTİK
+## It epitomizes my journey from the beginning to the end of my Swift learning story.
+## </> Salih KERTİK 🙋🏻‍♂️ </> iOS DEVELOPER 🍏 </>
 <div>
   <img src="https://media4.giphy.com/media/1HZ1wggAdwVIA/giphy.gif">
   <img src="https://media4.giphy.com/media/1HZ1wggAdwVIA/giphy.gif">
