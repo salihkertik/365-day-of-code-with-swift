@@ -42,9 +42,9 @@ This repository has been opened to develop iOS in a planned way.
 # My Side Projects for iOS
 Sorted by development time.
 
-| Name | Status | Url | Subject | Main Technologies |
+| Name | Status | Url | Level | Main Technologies |
 | ---- | ------ | --- | ------- | ----------------- | 
-| ProjectName | Develop |  <a href="...">Go to Project</a> | LEARN LANG | MVM, FIREBASE |
+| Land Mark Book | Develop |  <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/LandmarkBook">Go to Project</a> | Beginner | Table View |
 
 ## Hacking with Swift - 100 Days Of Swift - Salih KERTİK
 <div>
