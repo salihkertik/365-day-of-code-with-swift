@@ -12,7 +12,7 @@ str = "Goodbye"
 var age = 38
 ```
 
-##### If you have large numbers, Swift lets you use underscores as thousands separators – they don’t change the number, but they do make it easier to read.
+##### If you have large numbers, Swift lets you use underscores as thousands separators – they don’t change the number, but they do make it easier to read..
 ```swift
 var population = 8_000_000
 ```
