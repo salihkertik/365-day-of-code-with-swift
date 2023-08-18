@@ -42,9 +42,10 @@ This repository has been opened to develop iOS in a planned way.
 # My Side Projects for iOS
 Sorted by development time.
 
-| Name | Status | Url | Level | Main Technologies |
+| Name | Level | Url | Status | Main Technologies |
 | ---- | ------ | --- | ------- | ----------------- | 
-| Land Mark Book | Develop |  <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/LandmarkBook">Go to Project</a> | Beginner | Table View |
+| Land Mark Book | Beginner |  <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/LandmarkBook">Go to Project</a> | Develop | Table View |
+| Simpson Book | Beginner |  <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/SimpsonBook">Go to Project</a> | Develop | Classes, Table View |
 
 ## It epitomizes my journey from the beginning to the end of my Swift learning story.
 ## </> Salih KERTİK 🙋🏻‍♂️ </> iOS DEVELOPER 🍏 </>
