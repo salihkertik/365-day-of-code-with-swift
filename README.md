@@ -40,7 +40,7 @@ This repository has been opened to develop iOS in a planned way.
 ## Side Project Map
 
 # My Side Projects for iOS
-Sorted by development time.
+Projects I made by following the courses I studied
 
 | Name | Level | Url | Status | Main Technologies |
 | ---- | ------ | --- | ------- | ----------------- | 
