@@ -23,7 +23,7 @@ This repository has been opened to develop iOS in a planned way.
 | Day 9  ✅| Access control, Static properties and Laziness | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Swift%20Day%201-15/Day9-Acceess%20Control.md">File</a> |
 | Day 10 ✅| Classes and Inheritance                       | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Swift%20Day%201-15/Day%2010%20-%20Classes.md">File</a> |
 | Day 11 ✅| Protocols, Extensions and Protocol Extensions | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Swift%20Day%201-15/Day11-Protocols.md">File</a> |
-| Day 12 | Optionals, Unwrapping and Typecasting         | <a href="...">File</a> |
+| Day 12 ✅| Optionals, Unwrapping and Typecasting         | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Swift%20Day%201-15/Day12-Optionals.md">File</a> |
 | Day 13 | Swift Review, Day One                         | <a href="...">File</a> |
 | Day 14 | Swift Review, Day Two                         | <a href="...">File</a> |
 | Day 15 | Swift Review, Day Three                       | <a href="...">File</a> |
