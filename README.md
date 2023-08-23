@@ -48,7 +48,7 @@ Projects I made by following the courses I studied
 | Simpson Book 🍏| Beginner |  <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/SimpsonBook">Go to Project</a> | Develop | Classes, Table View |
 | Art Book 🍏| Beginner |  <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/ArtBook">Go to Project</a> | Develop | Core Data|
 | Travel Book 🍏| Beginner | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/TravelBook">Go to Project</a> | Develop | Core Data, MapKit, UIKit, Core Location|
-
+| Currency Convert 🍏| Beginner - Intermediate | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/CurrencyConverter">Go to Project</a> | Develop | JSON, API|
 
 ## It epitomizes my journey from the beginning to the end of my Swift learning story.
 ## </> Salih KERTİK 🙋🏻‍♂️ </> iOS DEVELOPER 🍏 </>
