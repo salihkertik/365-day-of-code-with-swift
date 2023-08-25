@@ -45,10 +45,10 @@ Projects I made by following the courses I studied
 | Name | Level | Url | Status | Main Technologies |
 | ---- | ------ | --- | ------- | ----------------- | 
 |Land Mark🍏| Beginner |  <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/LandmarkBook">Go to Project</a> | Develop | Table View |
-| Simpson Book 🍏| Beginner |  <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/SimpsonBook">Go to Project</a> | Develop | Classes, Table View |
-| Art Book🍏| Beginner |  <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/ArtBook">Go to Project</a> | Develop | Core Data|
-| Travel Book🍏| Beginner | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/TravelBook">Go to Project</a> | Develop | Core Data, MapKit, UIKit, Core Location|
-| Currency Convert🍏| Beginner - Intermediate | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/CurrencyConverter">Go to Project</a> | Develop | JSON, API|
+|Simpson Book 🍏| Beginner |  <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/SimpsonBook">Go to Project</a> | Develop | Classes, Table View |
+|Art Book🍏| Beginner |  <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/ArtBook">Go to Project</a> | Develop | Core Data|
+|Travel Book🍏| Beginner | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/TravelBook">Go to Project</a> | Develop | Core Data, MapKit, UIKit, Core Location|
+|Currency Convert🍏| Beginner - Intermediate | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/CurrencyConverter">Go to Project</a> | Develop | JSON, API|
 |Instagram🍏| Intermediate |  <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/FirebaseInstaClone">Go to Project</a> | Develop | Firebase, Cocoapods, Swift Package Manager|
 |Foursquare🍏| Intermediate |  <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/Foursquare">Go to Project</a> | Develop | Parse, Navigation, MapKit |
 
