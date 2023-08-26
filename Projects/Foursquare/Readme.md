@@ -1,4 +1,4 @@
-## Foursquare
+## Foursquare Project
 ### In this project, a person can record the places she has visited and loved, and when she wants to go again, open it from the list and access the location and go again.
 
 ### The technologies I used in the project are as follows;
