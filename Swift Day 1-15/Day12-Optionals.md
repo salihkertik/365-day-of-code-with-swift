@@ -212,7 +212,14 @@ struct Person {
 
 ###### Swift must always know the type of each of your variables, but sometimes you know more information than Swift does. For example, here are three classes:
 ```swift
+class Animal { }
+class Fish: Animal { }
 
+class Dog: Animal {
+    func makeNoise() {
+        print("Woof!")
+    }
+}
 ```
 ###### We can create a couple of fish and a couple of dogs, and put them into an array, like this:
 ```swift
