@@ -70,28 +70,35 @@ class Soru5 {
 
 let s5 = Soru5().icAciToplami(kenarSayisi: 3)
 print("Üçgenin her bir iç açısının derecesi: \(s5), Üçgenin iç açılarının toplamı ise : \(s5*3)")
+
 print("-----------------------------------------")
 
-
-// 18 gün = 18*8 144 saat çalışmış demek
-// 19 gün = 19*8 152 saat çalışmış demek (mesai ücretine girer)
-// 18 ve altıysa 40₺, 19 ve üstü ise 80₺
-// kullanıcıdan kaç gün çalıştığını öğrenmek için soruyoruz ve 10 gün çalıştığını belirtiyor. if kontrolünde 18 günden düşük olduğu için normal ücret yani saatliği 40₺ ücrete denk geldiği için ilk if kontrolümüz cevabı veriyor.
-// eğer 19 günden fazla çalışmış olsaydı ve örneği 23 gün yazsaydı, else if kontrolümüze girip saatlik ücretini 80₺ den hesap görülecekti.
 class Soru6 {
-    var x = 0
-    func gun(kacGun:Int){
-        if x <= 18 {
-            x = Int(kacGun*8)*40
+    func hesaplaMaas(gunSayisi: Int) -> Double {
+        let calismaSaatleri = gunSayisi * 8
+        let normalSaatUcreti: Double = 40
+        let mesaiSaatUcreti: Double = 80
+        let mesaiSiniri: Int = 150
+        let normalMaas = Double(calismaSaatleri) * normalSaatUcreti
+        
+        var mesaiSaatleri = 0
+        // Burada girilen değeri kontrol ediyoruz. calısmaSaatleri büyükse mesaiSiniri (150 saat) calismaSaatleri değişkeninden mesaiSiniri nı çıkarıyoruz.
+        // sonuç olarak elimize 150 saatin üstüne çıkıp ekstra kaç saat çalıştığını buluyoruz.
+        if calismaSaatleri > mesaiSiniri {
+            mesaiSaatleri = calismaSaatleri - mesaiSiniri
         }
-        else if x >= 19 {
-            x = Int(kacGun*8)*80
-        }
-        print(x)
+        // ekstra kaç saat çalıştığını bulduktan sonra mesaiSaatUcreti (80₺) ile çarpıp mesaiMaasi değişkenine atıyoruz.
+        let mesaiMaasi = Double(mesaiSaatleri) * mesaiSaatUcreti
+        // son olarak normal maas ile mesai saat ücretini toplayıp return ediyoruz.
+        let toplamMaas = normalMaas + mesaiMaasi
+        
+        return toplamMaas
     }
 }
-var x = Soru6()
-x.gun(kacGun: 10)
+let maas = Soru6()
+var sonuc = maas.hesaplaMaas(gunSayisi: 10) // Çıktısı: 3200.0₺
+print("Toplam maaş: \(sonuc) ₺")
+
 print("-----------------------------------------")
 
 
