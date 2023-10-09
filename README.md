@@ -50,10 +50,10 @@ Projects I made by following the courses I studied
 |Travel Book🍏| Beginner | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/TravelBook">Go to Project</a> | Develop | Core Data, MapKit, UIKit, Core Location|
 |Angry Bird🍏| Beginner |  <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/AngryBirdClone">Go to Project</a> | Develop |  SpriteKit |
 |Currency Convert🍏| Beginner - Intermediate | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/CurrencyConverter">Go to Project</a> | Develop | JSON, API|
+|Movie App🍏| Intermediate |  <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/FilmlerApp">Go to Project</a> | Develop | MVVM, RxSwift |
 |Instagram🍏| Intermediate |  <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/FirebaseInstaClone">Go to Project</a> | Develop | Firebase, Cocoapods, Swift Package Manager|
 |Foursquare🍏| Intermediate |  <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/Foursquare">Go to Project</a> | Develop | Parse, Navigation, MapKit |
 |Movie App🍏| Advanced |  <a href="https://github.com/salihkertik/365-day-of-code-with-swift/tree/main/Projects/MVVM_MovieApp">Go to Project</a> | Develop | MVVM |
-
 
 
 ## It epitomizes my journey from the beginning to the end of my Swift learning story.
