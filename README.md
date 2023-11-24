@@ -25,7 +25,7 @@ This repository has been opened to develop iOS in a planned way.
 | Day 11 ✅| Protocols, Extensions and Protocol Extensions | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Swift%20Day%201-15/Day11-Protocols.md">File</a> |
 | Day 12 ✅| Optionals, Unwrapping and Typecasting         | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Swift%20Day%201-15/Day12-Optionals.md">File</a> |
 | Day 13 ✅| Swift Review, Day One                         | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Swift%20Day%201-15/Day13-SwiftReview-1.md">File</a> |
-| Day 14 | Swift Review, Day Two                         | <a href="...">File</a> |
+| Day 14 ✅| Swift Review, Day Two                         | <a href="https://github.com/salihkertik/365-day-of-code-with-swift/blob/main/Swift%20Day%201-15/ReviewDay14Swift/ReviewDay14Swift.playground/Contents.swift">File</a> |
 | Day 15 | Swift Review, Day Three                       | <a href="...">File</a> |
 
 
