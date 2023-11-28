@@ -18,7 +18,6 @@ class SignUpVC: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
     }
     
     @IBAction func signUpButton(_ sender: Any) {

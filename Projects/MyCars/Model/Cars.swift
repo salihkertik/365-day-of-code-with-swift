@@ -15,7 +15,6 @@ class Cars{
     var image:String?
     
     init(){
-        
     }
     
     init(id: Int?, name: String?, year: Int?, image: String?) {

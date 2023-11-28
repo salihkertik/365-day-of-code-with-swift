@@ -599,7 +599,7 @@
         <image name="plus.app.fill" catalog="system" width="128" height="114"/>
         <image name="rpm" width="284" height="511"/>
         <namedColor name="myblue">
-            <color red="0.1725490093" green="0.2117646933" blue="0.40392160420000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+            <color red="0.17299999296665192" green="0.21199999749660492" blue="0.40400001406669617" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
         </namedColor>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
