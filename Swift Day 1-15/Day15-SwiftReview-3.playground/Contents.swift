@@ -1,3 +1,2 @@
 import UIKit
-
-var greeting = "Hello, playground"
+// Creat day 15
