@@ -5,9 +5,9 @@ This repository has been opened to develop iOS in a planned way.
 
 | Start Date | Finish Date | Day | Title                              | State         | 
 |------------|-------------|-----|------------------------------------| ------------- | 
-| 09/07/2023 | 11/11/2023  | 100 | Swift And UIKit                    | Loading...    |
-| 12/11/2023 | 12/03/2024  | 100 | Swift Review and SwiftUI           | Loading...    |
-| 09/07/2023 | 09/07/2024  | 365 | Project examples and more practice | Loading...    |
+| 09/07/2023 | xx/xx/xxxx  | xxx | Swift UIKit                        | Loading...    |
+| 12/11/2023 | xx/xx/xxxx  | xxx | Swift Review and SwiftUI           | Loading...    |
+| 09/07/2023 | xx/xx/xxxx  | xxx | Project examples and more practice | Loading...    |
 
 ## Swift Fundamentals 
 | Days | Topics                                        | File                                                                                                                                                        |
